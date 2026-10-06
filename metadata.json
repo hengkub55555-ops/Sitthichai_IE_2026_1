@@ -1,0 +1,6 @@
+{
+  "name": "Plant 9771 IE Work Measurement & STD Time Workbench",
+  "description": "Industrial Engineering Standard Time (MC/Labor), Line Balancing, Takt Time, and Manpower Capacity Planning System for Plant 9771.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
